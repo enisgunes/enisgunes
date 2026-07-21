@@ -1,59 +1,10 @@
 # Hi there 👋 I'm Enis
 
-## 💻 Backend Developer | Automation Engineer
+💻 Backend Developer passionate about building scalable applications and automation solutions.
 
-I build scalable backend applications, automate business workflows, and develop AI-powered solutions.
-
-### 🚀 Currently Working On
-
-- 🤖 AI-powered automation systems
-- ⚙️ Backend development with .NET & Python
-- 📊 SQL Server optimization and reporting
-- 🌐 E-commerce integrations
-- 🖨️ 3D printing projects for automotive & motorcycle parts
-
-### 🛠️ Tech Stack
-
-#### Languages
-- C#
-- Python
-- SQL
-- JavaScript
-- TypeScript
-
-#### Backend
-- .NET
-- FastAPI
-- REST APIs
-
-#### Databases
-- SQL Server
-- MySQL
-- Redis
-
-#### Frontend
-- HTML
-- CSS
-- Tailwind CSS
-- Bootstrap
-
-#### Automation & Tools
-- Playwright
-- Selenium
-- Git
-- Docker
-
-### 🌱 Currently Learning
-
-- AI Agents
-- MCP
-- System Design
-- Cloud Technologies
-
-### 📫 Connect with Me
-
-- GitHub: https://github.com/enisgunes
-- LinkedIn: https://www.linkedin.com/in/enisguness/
----
-
-> *"Build. Automate. Optimize."*
+- 🚀 Building with .NET, Python and SQL Server
+- 🤖 Interested in AI, automation and system design
+- 🌐 Developing APIs and business applications
+- 📊 Optimizing databases and reporting systems
+  
+> *Build. Automate. Improve.*
